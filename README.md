@@ -3,7 +3,7 @@
 This repository contains TA-1 questions for the **Computer Organization & Architecture** course. 
 
 ## Contents
-
+ 
 The document includes questions from the following units:
 
 ### Unit 1: Instruction Set & Addressing Modes
