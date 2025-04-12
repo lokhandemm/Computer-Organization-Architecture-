@@ -4,7 +4,7 @@ This repository contains TA-1 questions for the **Computer Organization & Archit
  
 ## Contents
  
-The document includes questions from the following units:
+The document includes questions from the following units: 
 
 ### Unit 1: Instruction Set & Addressing Modes
 - Instruction set architecture & different address formats  
