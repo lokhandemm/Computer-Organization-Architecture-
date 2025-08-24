@@ -1,4 +1,4 @@
-# Computer Organization & Architecture (COA) - TA1 
+# Computer Organization & Architecture (COA) - TA1  
                                  
 This repository contains TA-1 questions for the **Computer Organization & Architecture** course. 
    
