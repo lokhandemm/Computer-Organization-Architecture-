@@ -6,7 +6,7 @@ This repository contains TA-1 questions for the **Computer Organization & Archit
  
 The document includes questions from the following units: 
 
-### Unit 1: Instruction Set & Addressing Modes
+### Unit 1: Instruction Set & Addressing Modes 
 - Instruction set architecture & different address formats   
 - Zero address instruction format
 - Use of stack in subroutine processing
